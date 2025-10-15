@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.dbmdl
+*.log
+
+# Build outputs
+bin/
+obj/
+
+# NuGet packages
+*.nupkg
+
+# VS Code
+.vscode/

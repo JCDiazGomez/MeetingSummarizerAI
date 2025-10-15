@@ -1,0 +1,6 @@
+@MeetingSummarizerAI_JCdiaz_HostAddress = http://localhost:5091
+
+GET {{MeetingSummarizerAI_JCdiaz_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
